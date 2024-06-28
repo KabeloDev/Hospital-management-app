@@ -9,7 +9,8 @@ The project is a web and mobile application designed for patients to register, b
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Flutter</b> 
+- <b>Flutter</b>
+- <b>Firebase</b> 
 
 <h2>Environments Used </h2>
 
