@@ -25,48 +25,39 @@ Login screen: <br/>
 <br />
 <br />
 Register patient/admin:  <br/>
-<img src="https://i.imgur.com/CkqXpa3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CkqXpa3.png" height="80%" width="80%" />
 <br />
 <br />
 User page: <br/>
-<img src="https://i.imgur.com/MoG0c38.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MoG0c38.png" height="80%" width="80%" />
 <br />
 <br />
 User appointment page:  <br/>
-<img src="https://i.imgur.com/RPc1ZrI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RPc1ZrI.png" height="80%" width="80%" />
 <br />
 <br />
 User review page:  <br/>
-<img src="https://i.imgur.com/Ru6Wymv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ru6Wymv.png" height="80%" width="80%" />
 <br />
 <br />
 Admin page:  <br/>
-<img src="https://i.imgur.com/JaDrWHG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JaDrWHG.png" height="80%" width="80%" />
 <br />
 <br />
 Admin user list page:
 <br/>
-<img src="https://i.imgur.com/y3Qq3hg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y3Qq3hg.png" height="80%" width="80%" />
 <br />
 <br />
 Admin appointment list page:  <br/>
-<img src="https://i.imgur.com/77SoqiP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/77SoqiP.png" height="80%" width="80%" />
 <br />
 <br />
 Admin review list page:
 <br/>
-<img src="https://i.imgur.com/oU0tC7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oU0tC7K.png" height="80%" width="80%" />
 <br />
 <br />
 </p>
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
