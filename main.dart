@@ -14,7 +14,6 @@ Future<void> main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyDZzatncXDOfEOKuVp27BO6ZX0sTpEqepY",
           authDomain: "hospital-managent-app.firebaseapp.com",
           projectId: "hospital-managent-app",
           storageBucket: "hospital-managent-app.appspot.com",
