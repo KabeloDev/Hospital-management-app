@@ -21,7 +21,7 @@ The project is a web and mobile application designed for patients to register, b
 
 <p align="center">
 Login screen: <br/>
-<img src="https://i.imgur.com/FRAi1aW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q3uPLkX.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Register patient/admin:  <br/>
@@ -29,7 +29,7 @@ Register patient/admin:  <br/>
 <br />
 <br />
 User page: <br/>
-<img src="https://i.imgur.com/MoG0c38.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/oUqyDSW.png" height="80%" width="80%" />
 <br />
 <br />
 User appointment page:  <br/>
@@ -41,7 +41,7 @@ User review page:  <br/>
 <br />
 <br />
 Admin page:  <br/>
-<img src="https://i.imgur.com/JaDrWHG.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/aQkqCkT.png" height="80%" width="80%" />
 <br />
 <br />
 Admin user list page:
