@@ -25,7 +25,7 @@ Login screen: <br/>
 <br />
 <br />
 Register patient/admin:  <br/>
-<img src="https://i.imgur.com/CkqXpa3.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/FeOv8nP.png" height="80%" width="80%" />
 <br />
 <br />
 User page: <br/>
@@ -44,20 +44,7 @@ Admin page:  <br/>
 <img src="https://i.imgur.com/aQkqCkT.png" height="80%" width="80%" />
 <br />
 <br />
-Admin user list page:
-<br/>
-<img src="https://i.imgur.com/y3Qq3hg.png" height="80%" width="80%" />
-<br />
-<br />
-Admin appointment list page:  <br/>
-<img src="https://i.imgur.com/77SoqiP.png" height="80%" width="80%" />
-<br />
-<br />
-Admin review list page:
-<br/>
-<img src="https://i.imgur.com/oU0tC7K.png" height="80%" width="80%" />
-<br />
-<br />
+
 </p>
 
 
