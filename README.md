@@ -21,27 +21,27 @@ The project is a web and mobile application designed for patients to register, b
 
 <p align="center">
 Login screen: <br/>
-<img src="https://i.imgur.com/q3uPLkX.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/q3uPLkX.png" height="500%" width="100%" />
 <br />
 <br />
 Register patient/admin:  <br/>
-<img src="https://i.imgur.com/FeOv8nP.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/FeOv8nP.png" height="500%" width="100%" />
 <br />
 <br />
 User page: <br/>
-<img src="https://i.imgur.com/oUqyDSW.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/oUqyDSW.png" height="500%" width="100%" />
 <br />
 <br />
 User appointment page:  <br/>
-<img src="https://i.imgur.com/RPc1ZrI.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/RPc1ZrI.png" height="500%" width="100%" />
 <br />
 <br />
 User review page:  <br/>
-<img src="https://i.imgur.com/Ru6Wymv.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/Ru6Wymv.png" height="500%" width="100%" />
 <br />
 <br />
 Admin page:  <br/>
-<img src="https://i.imgur.com/aQkqCkT.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/aQkqCkT.png" height="500%" width="100%" />
 <br />
 <br />
 
