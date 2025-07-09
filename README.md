@@ -32,14 +32,6 @@ User page: <br/>
 <img src="https://i.imgur.com/oUqyDSW.png" height="500%" width="100%" />
 <br />
 <br />
-User appointment page:  <br/>
-<img src="https://i.imgur.com/RPc1ZrI.png" height="500%" width="100%" />
-<br />
-<br />
-User review page:  <br/>
-<img src="https://i.imgur.com/Ru6Wymv.png" height="500%" width="100%" />
-<br />
-<br />
 Admin page:  <br/>
 <img src="https://i.imgur.com/aQkqCkT.png" height="500%" width="100%" />
 <br />
